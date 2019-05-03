@@ -4,7 +4,7 @@
 
 ----
 
-# JANGAN LUPA ADD [@Yepz](http://line.me/ti/p/~myyepz)
+# JANGAN LUPA BLOCK [@Asocka](http://line.me/ti/p/~kok_brut)
 
 # Termux
 

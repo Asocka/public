@@ -30,5 +30,5 @@ $ python Botpublic.py
 ```
 
 ## Thanks To:
-HelloWorld
+Allah S,W,T
 
